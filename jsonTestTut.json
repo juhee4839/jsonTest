@@ -23,6 +23,14 @@
       "PlayerDesc" : "Team Business",
       "Grade" : "VIP",
       "Team" : "HU"
-    }      
+    },
+    {
+      "UserId" : "3",
+      "FirstName":"Personal",
+      "Surname" : "PersonalUser",
+      "PlayerDesc" : "PersonalUser",
+      "Grade" : "VIP",
+      "Team" : "PerU"
+    } 
   ]  
-}
+}S
